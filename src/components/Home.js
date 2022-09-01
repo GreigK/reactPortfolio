@@ -14,7 +14,7 @@ function Home() {
         </div>
     <div className='skills'></div>
         <h1> Skills</h1>
-        <ol className='"list'>
+        <ul className='"list'>
             <li className='item'>
                 <h2> Front-End</h2>
                 <span> 
@@ -33,7 +33,7 @@ function Home() {
                 </span>
             </li>
             </li>
-        </ol>
+        </ul>
 
     </div>
   )
